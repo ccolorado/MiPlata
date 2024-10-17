@@ -17,11 +17,12 @@
     "verify": "hardhat etherscan-verify"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "~5.0.2",
-    "@typechain/ethers-v6": "~0.5.1",
-    "dotenv": "~16.0.3",
-    "envfile": "~6.18.0",
-    "qrcode": "~1.5.1"
+    "@aave/core-v3": "^1.17.0",
+    "@chainlink/contracts": "^0.6.1",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@uniswap/v3-core": "1.0.1",
+    "@uniswap/v3-periphery": "^1.2.0",
+    "dotenv": "^16.4.5"
   },
   "devDependencies": {
     "@ethersproject/abi": "~5.7.0",

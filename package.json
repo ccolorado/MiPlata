@@ -41,5 +41,12 @@
   "packageManager": "yarn@3.2.3",
   "engines": {
     "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "@aave/core-v3": "1.17.0",
+    "@chainlink/contracts": "0.6.1",
+    "@openzeppelin/contracts": "4.8.0",
+    "@uniswap/v3-core": "1.0.1",
+    "@uniswap/v3-periphery": "1.2.0"
   }
 }
